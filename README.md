@@ -1,5 +1,7 @@
 # Hello visitor! Welcome to my page.
 
+Hi, I'm Yuval. I worked in the Internet and software industry for most of my career, starting at the age of 18, working in different positions and fields. Somewhere in the middle there I had a few years where I did several odd jobs working in bars, night clubs and even air planes before coming back to software. Sitting in a fancy office is quite comfortable, but dancing around all night and getting paid for it had it's charm. Clouds are really cool too.
+
 <!--
 **yuvaliacob/yuvaliacob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
