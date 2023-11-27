@@ -4,7 +4,7 @@ Hi, I'm Yuval. I worked in the Internet and software industry for most of my car
 
 ![Cool optical illusion](./opticalillusion.gif)
 
-#### An illuminating and very comprehensive list of things I enjoy (and I'm told all have something in common but I can't quite put my finger on it)
+#### The following is an illuminating and very comprehensive list of things I enjoy (and I'm told all have something in common but I can't quite put my finger on it)
 
 - Water
 - Winter
